@@ -1,4 +1,4 @@
-![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/391e3d8a-6ca4-4662-99f0-50305af2da47)# Neural-Network-Final-Project
+# Neural-Network-Final-Project
 ## This is my 8th semester Neural Network final project.
 
 Sure! Here's an updated version of the GitHub README with your project link included:
@@ -45,6 +45,12 @@ Certainly! Here's an updated version of the README with three pictures added to 
 
 ## Results
 The results of the experiments indicate the effectiveness of CNNs for face mask detection. The trained CNN model achieves high accuracy in classifying whether individuals are wearing face masks or not. The success rate demonstrates the potential of the model for real-world applications, contributing to public health and safety efforts.
+
+|No mask detected|No mask detected|Mask detected|
+|:-:|:-:|:-:|
+![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test1.jpeg) | 
+![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test2.jpeg) |
+![Mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test3.jpeg)
 
 Here are some visual examples of the model's performance:
 
