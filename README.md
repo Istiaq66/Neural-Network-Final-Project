@@ -45,27 +45,11 @@ Certainly! Here's an updated version of the README with three pictures added to 
 ## Results
 The results of the experiments indicate the effectiveness of CNNs for face mask detection. The trained CNN model achieves high accuracy in classifying whether individuals are wearing face masks or not. The success rate demonstrates the potential of the model for real-world applications, contributing to public health and safety efforts.
 
+Here are some visual examples of the model's performance:
+
 |No mask detected|No mask detected|Mask detected|
 |:-:|:-:|:-:|
 ![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test1.jpeg) | ![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test2.jpeg) | ![Mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test3.jpeg)
-
-Here are some visual examples of the model's performance:
-
-
-1. Face Mask Not Detected:
-![Face Mask Not Detected](![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/b20344ec-42dd-4778-a434-d416f1794db9)
-)
-
-2. Face Mask Not Detected:
-![Face Mask Not Detected](![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/403120c1-3921-4d26-9a1e-f2181ccdb016)
-)
-
-3. Correctly Detected Face Mask:
-![Correctly Detected Face Mask](![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/80883424-ff0e-482e-8121-40e9b2198c35)
-)
-
-
-
 
 
 ## Analysis
