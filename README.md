@@ -1,4 +1,4 @@
-# Neural-Network-Final-Project
+![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/391e3d8a-6ca4-4662-99f0-50305af2da47)# Neural-Network-Final-Project
 ## This is my 8th semester Neural Network final project.
 
 Sure! Here's an updated version of the GitHub README with your project link included:
@@ -39,6 +39,31 @@ The experiments involve the following steps:
 
 ## Results
 The results of the experiments indicate the effectiveness of CNNs for face mask detection. The trained CNN model achieves high accuracy in classifying whether individuals are wearing face masks or not. The success rate demonstrates the potential of the model for real-world applications, contributing to public health and safety efforts.
+
+
+Certainly! Here's an updated version of the README with three pictures added to the Results section:
+
+## Results
+The results of the experiments indicate the effectiveness of CNNs for face mask detection. The trained CNN model achieves high accuracy in classifying whether individuals are wearing face masks or not. The success rate demonstrates the potential of the model for real-world applications, contributing to public health and safety efforts.
+
+Here are some visual examples of the model's performance:
+
+
+1. Face Mask Not Detected:
+![Face Mask Not Detected](![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/b20344ec-42dd-4778-a434-d416f1794db9)
+)
+
+2. Face Mask Not Detected:
+![Face Mask Not Detected](![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/403120c1-3921-4d26-9a1e-f2181ccdb016)
+)
+
+3. Correctly Detected Face Mask:
+![Correctly Detected Face Mask](![image](https://github.com/Istiaq66/Neural-Network-Final-Project/assets/84660630/80883424-ff0e-482e-8121-40e9b2198c35)
+)
+
+
+
+
 
 ## Analysis
 The analysis of the project includes considerations for false positives and false negatives in face mask detection. While the model achieves high accuracy, it is essential to understand the implications of misclassifications. The quality and diversity of the training dataset also play a vital role in the model's performance. Further optimization possibilities are suggested, such as fine-tuning the model architecture, exploring advanced CNN architectures, adjusting hyperparameters, and incorporating techniques like data augmentation.
