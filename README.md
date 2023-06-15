@@ -1,7 +1,6 @@
 # Neural-Network-Final-Project
 ## This is my 8th semester Neural Network final project.
 
-Sure! Here's an updated version of the GitHub README with your project link included:
 
 # Face Mask Detection Using Convolutional Neural Networks (CNN)
 
