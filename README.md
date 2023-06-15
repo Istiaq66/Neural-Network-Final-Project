@@ -48,9 +48,7 @@ The results of the experiments indicate the effectiveness of CNNs for face mask 
 
 |No mask detected|No mask detected|Mask detected|
 |:-:|:-:|:-:|
-![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test1.jpeg) | 
-![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test2.jpeg) |
-![Mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test3.jpeg)
+![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test1.jpeg) | ![No mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test2.jpeg) | ![Mask detected](https://github.com/Istiaq66/Neural-Network-Final-Project/blob/master/test3.jpeg)
 
 Here are some visual examples of the model's performance:
 
