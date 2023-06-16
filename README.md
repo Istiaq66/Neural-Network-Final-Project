@@ -80,4 +80,4 @@ Contributions to this project are welcome. If you would like to contribute, plea
 5. Submit a pull request, explaining your changes and their benefits.
 
 ## NB
-You are free to modify and distribute the codebase, as long as you include the original license file and attribute the authors.
+You are free to modify and distribute the codebase, as long as you attribute the author.
