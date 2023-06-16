@@ -16,7 +16,7 @@ This project aims to develop a Convolutional Neural Network (CNN) model for accu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#NB)
 
 ## Introduction
 Face mask detection has become essential in maintaining public health and safety, particularly in the context of the COVID-19 pandemic. This project utilizes Convolutional Neural Networks (CNNs), which have proven to be powerful tools in image classification tasks, making them suitable for face mask detection. The goal is to develop a CNN model capable of accurately classifying whether a person is wearing a face mask or not.
@@ -79,5 +79,5 @@ Contributions to this project are welcome. If you would like to contribute, plea
 4. Push your changes to your fork.
 5. Submit a pull request, explaining your changes and their benefits.
 
-## License
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the codebase, as long as you include the original license file and attribute the authors.
+## NB
+You are free to modify and distribute the codebase, as long as you include the original license file and attribute the authors.
