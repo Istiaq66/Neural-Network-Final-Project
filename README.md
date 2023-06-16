@@ -16,7 +16,7 @@ This project aims to develop a Convolutional Neural Network (CNN) model for accu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#NB)
+- [NB](#NB)
 
 ## Introduction
 Face mask detection has become essential in maintaining public health and safety, particularly in the context of the COVID-19 pandemic. This project utilizes Convolutional Neural Networks (CNNs), which have proven to be powerful tools in image classification tasks, making them suitable for face mask detection. The goal is to develop a CNN model capable of accurately classifying whether a person is wearing a face mask or not.
